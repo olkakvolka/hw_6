@@ -3,7 +3,12 @@ ul li {
     color: #000;
     background-color: #4FF1CF;	
 }
+
 ul li:nth-child(3n){
     color: #5F0;
     background-color: #4BB1CF;
+}
+
+.checked {
+	text-decoration: line-through;
 }
